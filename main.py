@@ -20,7 +20,7 @@ def findPosition(img, handNo=0):
             lmList.append([id, cx, cy])
     return lmList
 
-
+tmpstore = 0
 # For webcam input:
 listTotalFinger = []
 tipIds = [4, 8, 12, 16, 20]
@@ -74,10 +74,12 @@ with mp_hands.Hands(
                 if result:
                     ser.open()
                     tmp = listTotalFinger[0]
-                    if tmp == 5:
+                    if tmp == 5 and tmpstore != 5:
+                        tmpstore = 5
                         ser.write(1)
                         print("active")
-                    if tmp == 0:
+                    if tmp == 0 and tmpstore != 0:
+                        tmpstore = 0
                         ser.write(0)
                         print("inactive")
                     ser.close()
