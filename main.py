@@ -1,9 +1,10 @@
 import cv2
 import mediapipe as mp
 import serial
-ser = serial.Serial()
-ser.baudrate = 9600
-ser.port = 'COM1'
+import time
+
+
+
 mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 mp_hands = mp.solutions.hands
@@ -69,20 +70,29 @@ with mp_hands.Hands(
 
             totalFingers = fingers.count(1)
             listTotalFinger.append(totalFingers)
-            if len(listTotalFinger) > 10:
+            if len(listTotalFinger) > 20:
                 result = listTotalFinger.count(listTotalFinger[0]) == len(listTotalFinger)
                 if result:
-                    ser.open()
+                    serialcomm = serial.Serial('COM1', 9600)
+                    serialcomm.timeout = 1
                     tmp = listTotalFinger[0]
                     if tmp == 5 and tmpstore != 5:
                         tmpstore = 5
-                        ser.write(1)
+                        i = 'on'
+                        serialcomm.write(i.encode())
                         print("active")
+                        time.sleep(0.5)
+                        print(serialcomm.readline().decode('ascii'))
+
                     if tmp == 0 and tmpstore != 0:
                         tmpstore = 0
-                        ser.write(0)
+                        i = 'off'
+                        serialcomm.write(i.encode())
                         print("inactive")
-                    ser.close()
+                        time.sleep(0.5)
+                        print(serialcomm.readline().decode('ascii'))
+
+                    serialcomm.close()
                 listTotalFinger.clear()
 
         cv2.imshow('MediaPipe Hands', cv2.flip(image, 1))
