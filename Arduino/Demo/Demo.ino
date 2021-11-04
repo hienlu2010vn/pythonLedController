@@ -6,7 +6,7 @@ int led = 9;
 
 void setup()
 {
-	Serial.begin(9600);
+  Serial.begin(9600);
   lcd.begin();
   lcd.backlight();
   pinMode(led,OUTPUT);
@@ -19,16 +19,18 @@ void loop()
     incomingByte = Serial.readStringUntil('\n');
 
     if (incomingByte == "on") {
-
+        lcd.clear();
         digitalWrite(led,HIGH);
         Serial.write("Led on");
-
+        lcd.setCursor(0,0);
+        lcd.print("LED on");
     }
-
     else if (incomingByte == "off") {
-
+      lcd.clear();
       digitalWrite(led,LOW);
       Serial.write("Led off");
+      lcd.setCursor(0,0);
+      lcd.print("LED off");
     }
 
     else {
