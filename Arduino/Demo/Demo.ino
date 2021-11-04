@@ -30,7 +30,7 @@ void loop()
       digitalWrite(led,LOW);
       Serial.write("Led off");
       lcd.setCursor(0,0);
-      lcd.print("LED on");
+      lcd.print("LED off");
     }
 
     else {
