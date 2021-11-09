@@ -70,6 +70,8 @@ Chân GROUND
 - Requirement analysis
 
 - Flowchart
+<img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Flowchart.png">
+
 
 - [Source code](https://github.com/hienlu2010vn/pythonLedController)
 
