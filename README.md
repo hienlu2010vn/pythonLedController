@@ -1,9 +1,10 @@
 # LIGHTS CONTROL USING HAND GESTURE RECOGNITION
 
 Group member:
-Lê Hồng Nguyên
-Trần Phước Hiền
-Lê Phan Minh Thông
+- Lê Hồng Nguyên
+- Trần Phước Hiền
+- Lê Phan Minh Thông
+
 Content of Report:
 
 Introduction about this project	3
