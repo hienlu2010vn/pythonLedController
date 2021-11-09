@@ -39,7 +39,6 @@ a. Components
 |chân GROUND|1|
 
 b. Properties of components
-
 <ul>Cổng COMPIM
 <li>Nó làm việc như một điểm gắn kết, nơi mà cáp từ thiết bị ngoại vi có thể được cắm vào , thông qua đó, cho phép dữ liệu truyền đi và đến thiết bị</li>
 </ul>
