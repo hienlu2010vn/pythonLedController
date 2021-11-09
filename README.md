@@ -77,9 +77,9 @@ Chân GROUND
 <img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Implementation%20and%20inspection.png">
 
 - Conclusion
-<ul>
-<li>Hệ thống hoạt động ổn định khi chạy thử nghiệm</li>
-<li>Một số lỗi có thể xảy ra khi có nhiều người cùng xuất hiện trong khu vực khiến hệ thống không hoạt động được</li>
-<li>Trong tương lai, hệ thống cần được nâng cấp để có thể hoạt động được trong nhiều hoàn cảnh khác nhau và cải thiện hiệu năng</li>
-</ul>
+	<ul>
+	<li>Hệ thống hoạt động ổn định khi chạy thử nghiệm</li>
+	<li>Một số lỗi có thể xảy ra khi có nhiều người cùng xuất hiện trong khu vực khiến hệ thống không hoạt động được</li>
+	<li>Trong tương lai, hệ thống cần được nâng cấp để có thể hoạt động được trong nhiều hoàn cảnh khác nhau và cải thiện hiệu năng</li>
+	</ul>
 
