@@ -26,7 +26,7 @@
 - Bởi vì cử chỉ cũng được coi là ngôn ngữ của cơ thể. Việc điều khiển đèn thông qua cử chỉ sẽ diễn ra nhanh chóng và tự nhiên hơn thay vì sử dụng công tắc truyền thống hay ra lệnh bằng giọng nói.
 
 ## About hardware
-Components
+a. Components
 |Column 1| Column 2|
 | ------------- |:-------------:|
 |cổng COMPIM|2|
@@ -38,7 +38,7 @@ Components
 |RES 220 Ohm|2|
 |chân GROUND|1|
 
-## Properties of components
+b. Properties of components
 
 Cổng COMPIM
 - Nó làm việc như một điểm gắn kết, nơi mà cáp từ thiết bị ngoại vi có thể được cắm vào , thông qua đó, cho phép dữ liệu truyền đi và đến thiết bị
@@ -61,10 +61,9 @@ PC
 Chân GROUND
 - Đây là điểm tham chiếu cho tất cả các tín hiệu hoặc đường dẫn chung trong mạch điện nơi có thể đo được tất cả các điện áp. Đây cũng được gọi là cống (drain) chung vì phép đo điện áp dọc theo nó bằng không
 
-## About software
-- Schematic design
+c. Schematic design
 <img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Schematic%20design.png">
-
+## About software
 - Requirement analysis
 	<ul>
 	<li>Non-functional Requirements</li>
