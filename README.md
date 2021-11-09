@@ -64,6 +64,7 @@ Chân GROUND
 c. Schematic design
 
 <img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Schematic%20design.png">
+
 ## About software
 - Requirement analysis
 	<ul>
