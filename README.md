@@ -25,18 +25,20 @@
 - Với dự án này, chúng tôi hy vọng có thể đem lại sự tiện lợi và thoải mái đến cho mọi người thông qua việc sử dụng cử chỉ của bàn tay để điều khiển 1 thiết bị rất quen thuộc trong cuộc sống hằng ngày là đèn điện. 
 - Bởi vì cử chỉ cũng được coi là ngôn ngữ của cơ thể. Việc điều khiển đèn thông qua cử chỉ sẽ diễn ra nhanh chóng và tự nhiên hơn thay vì sử dụng công tắc truyền thống hay ra lệnh bằng giọng nói.
 
-About hardware
+## About hardware
 Components
-1 cổng COMPIM
-1 đèn LED-GREEN
-1 đèn LED-RED
-1 mạch SIMULINO UNO
-1 Camera
-1 PC
-2 RES 220 Ohm
-1 chân GROUND
+|Column 1| Column 2|
+| ------------- |:-------------:|
+|cổng COMPIM|2|
+|đèn LED-GREEN|1|
+|đèn LED-RED|1|
+|mạch SIMULINO UNO|1|
+|Camera|1|
+|PC|1|
+|RES 220 Ohm|2|
+|chân GROUND|1|
 
-Properties of components
+## Properties of components
 
 Cổng COMPIM
 
