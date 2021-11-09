@@ -6,7 +6,7 @@
 - Lê Phan Minh Thông
 
 ## Content of Report:
-|Column 1| Column 2|Column 3|
+|Column 1| Column 2
 | ------------- |:-------------:| -----:|
 |Introduction about this project|3|
 |About hardware|3|
