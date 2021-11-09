@@ -1,23 +1,22 @@
 # LIGHTS CONTROL USING HAND GESTURE RECOGNITION
 
-Group member:
+## Group member:
 - Lê Hồng Nguyên
 - Trần Phước Hiền
 - Lê Phan Minh Thông
 
-Content of Report:
-
-Introduction about this project	3
-About hardware	3
-Components	3
-Properties of components	3
-Schematic design	5
-About software	5
-Requirement analysis	5
-Flowchart	6
-Source code	6
-Implementation and inspection	7
-Conclusion	7
+## Content of Report:
+- Introduction about this project	3
+- About hardware	3
+- Components	3
+- Properties of components	3
+- Schematic design	5
+- About software	5
+- Requirement analysis	5
+- Flowchart	6
+- Source code	6
+- Implementation and inspection	7
+- Conclusion	7
 
 
 
