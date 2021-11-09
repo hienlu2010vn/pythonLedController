@@ -74,5 +74,6 @@ Chân GROUND
 - [Source code](https://github.com/hienlu2010vn/pythonLedController)
 
 - Implementation and inspection
+<img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Implementation%20and%20inspection.png">
 
--Conclusion
+- Conclusion
