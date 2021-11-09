@@ -70,7 +70,7 @@ Chân GROUND
 - Requirement analysis
 	<ul>
 	<li>Non-functional Requirements</li>
-	<li>Functional Requirements</li>
+	<li>Functional Requirements: Điều khiển tắt mở đèn</li>
 	</ul>
 
 - Flowchart
