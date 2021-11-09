@@ -7,7 +7,7 @@
 
 ## Content of Report:
 |Column 1| Column 2|
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 |Introduction about this project|3|
 |About hardware|3|
 - Components	3
