@@ -40,8 +40,9 @@ a. Components
 
 b. Properties of components
 
-Cổng COMPIM
-- Nó làm việc như một điểm gắn kết, nơi mà cáp từ thiết bị ngoại vi có thể được cắm vào , thông qua đó, cho phép dữ liệu truyền đi và đến thiết bị
+<ul>Cổng COMPIM
+<li>Nó làm việc như một điểm gắn kết, nơi mà cáp từ thiết bị ngoại vi có thể được cắm vào , thông qua đó, cho phép dữ liệu truyền đi và đến thiết bị</li>
+</ul>
 
 LED-RED
 - Còn gọi là “Điốt phát sáng” được làm từ vật liệu bán dẫn GaAsP, bước sóng 630-660 nm, hoạt động ở mức điện áp 1.8V
