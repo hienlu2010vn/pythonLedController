@@ -62,22 +62,22 @@ Chân GROUND
 - Đây là điểm tham chiếu cho tất cả các tín hiệu hoặc đường dẫn chung trong mạch điện nơi có thể đo được tất cả các điện áp. Đây cũng được gọi là cống (drain) chung vì phép đo điện áp dọc theo nó bằng không
 
 ## Information
-Schematic design
+- Schematic design
 ![](https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Schematic%20design.png)
 
 
-About software
-Requirement analysis
+- About software
+- Requirement analysis
 
 
-Flowchart
+- Flowchart
 
 
-[Source code](https://github.com/hienlu2010vn/pythonLedController)
+- [Source code](https://github.com/hienlu2010vn/pythonLedController)
 
-Implementation and inspection
+- Implementation and inspection
 
 
 
-Conclusion
+-Conclusion
 
