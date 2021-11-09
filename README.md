@@ -47,24 +47,19 @@ LED-RED
 - Còn gọi là “Điốt phát sáng” được làm từ vật liệu bán dẫn GaAsP, bước sóng 630-660 nm, hoạt động ở mức điện áp 1.8V
 
 LED-GREEN
-
-Còn gọi là “Điốt phát sáng” được làm từ vật liệu bán dẫn AIGaP, bước sóng 550-570 nm, hoạt động ở mức điện áp 3.5V.
+- Còn gọi là “Điốt phát sáng” được làm từ vật liệu bán dẫn AIGaP, bước sóng 550-570 nm, hoạt động ở mức điện áp 3.5V
 
 Mạch SIMULINO UNO
-
-Đây là một bảng mạch vi điều khiển nguồn mở dựa trên vi điều khiển Microchip ATmega328 được phát triển bởi Arduino.cc. Bảng mạch được trang bị các bộ chân đầu vào/ đầu ra Digital và Analog có thể giao tiếp với các bảng mạch mở rộng khác nhau.
+- Đây là một bảng mạch vi điều khiển nguồn mở dựa trên vi điều khiển Microchip ATmega328 được phát triển bởi Arduino.cc. Bảng mạch được trang bị các bộ chân đầu vào/ đầu ra Digital và Analog có thể giao tiếp với các bảng mạch mở rộng khác nhau
 
 Camera
-
-Đây là thiết bị ghi hình có khả năng ghi lại các dữ liệu về môi trường như màu sắc, chuyển động, hình dạng vật thể, …
+- Đây là thiết bị ghi hình có khả năng ghi lại các dữ liệu về môi trường như màu sắc, chuyển động, hình dạng vật thể, …
 
 PC
-
-Là máy tính cá nhân có khả năng xử lý dữ liệu và tương tác mạnh mẽ.
+- Là máy tính cá nhân có khả năng xử lý dữ liệu và tương tác mạnh mẽ
 
 Chân GROUND
-
-Đây là điểm tham chiếu cho tất cả các tín hiệu hoặc đường dẫn chung trong mạch điện nơi có thể đo được tất cả các điện áp. Đây cũng được gọi là cống (drain) chung vì phép đo điện áp dọc theo nó bằng không.
+- Đây là điểm tham chiếu cho tất cả các tín hiệu hoặc đường dẫn chung trong mạch điện nơi có thể đo được tất cả các điện áp. Đây cũng được gọi là cống (drain) chung vì phép đo điện áp dọc theo nó bằng không
 
 Schematic design
 
