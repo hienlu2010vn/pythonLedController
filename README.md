@@ -10,15 +10,15 @@
 | ------------- |:-------------:|
 |Introduction about this project|3|
 |About hardware|3|
-- Components	3
-- Properties of components	3
-- Schematic design	5
-- About software	5
-- Requirement analysis	5
-- Flowchart	6
-- Source code	6
-- Implementation and inspection	7
-- Conclusion	7
+|Components|3|
+|Properties of components|3|
+|Schematic design|5|
+|About software|5|
+|Requirement analysis|5|
+|Flowchart|6|
+|Source code|6|
+|Implementation and inspection|7|
+|Conclusion|7|
 
 ## Introduction about this project
 - Chúng ta rất quen làm việc với máy tính thông qua “công cụ” bàn phím và chuột. Với tiến bộ công nghệ đáng kinh ngạc đã tạo nên những cách tương tác mới giữa người và máy, nổi bật như màn hình chạm (như iPhone, iPad) và cử động (như Nintendo Wii), rồi đến công nghệ điều khiển bằng giọng nói (như Siri). Nhiều thiết bị “thông minh” hiện nay còn cho phép người dùng “nhập” văn bản trực tiếp bằng cách đọc (nhờ phần mềm nhận dạng giọng nói). Để việc tương tác người-máy ngày càng tự nhiên và thoải mái, người ta đã phát triển các công nghệ cho phép sử dụng cử chỉ để điều khiển máy tính và các thiết bị số khác.
