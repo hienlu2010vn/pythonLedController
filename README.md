@@ -77,10 +77,10 @@ Chân GROUND
 
 - [Source code](https://github.com/hienlu2010vn/pythonLedController)
 
-- Implementation and inspection
+## Implementation and inspection
 <img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Implementation%20and%20inspection.png">
 
-- Conclusion
+## Conclusion
 	<ul>
 	<li>Hệ thống hoạt động ổn định khi chạy thử nghiệm</li>
 	<li>Một số lỗi có thể xảy ra khi có nhiều người cùng xuất hiện trong khu vực khiến hệ thống không hoạt động được</li>
