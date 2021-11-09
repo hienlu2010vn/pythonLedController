@@ -1,11 +1,5 @@
-# Embedded System Hardware
+# LIGHTS CONTROL USING HAND GESTURE RECOGNITION
 
-REPORT
-
-LedController
-
-
- 
 Group member:
 Lê Hồng Nguyên
 Trần Phước Hiền
