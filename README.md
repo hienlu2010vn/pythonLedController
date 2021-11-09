@@ -64,21 +64,15 @@ Chân GROUND
 ## Information
 - Schematic design
 <img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Schematic%20design.png">
-![](https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Schematic%20design.png)
-
 
 - About software
+
 - Requirement analysis
 
-
 - Flowchart
-
 
 - [Source code](https://github.com/hienlu2010vn/pythonLedController)
 
 - Implementation and inspection
 
-
-
 -Conclusion
-
