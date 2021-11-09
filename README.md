@@ -68,6 +68,10 @@ Chân GROUND
 - About software
 
 - Requirement analysis
+	<ul>
+	<li>Non-functional Requirements</li>
+	<li>Functional Requirements</li>
+	</ul>
 
 - Flowchart
 <img src="https://github.com/hienlu2010vn/pythonLedController/blob/main/Images/Flowchart.png">
