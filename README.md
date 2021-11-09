@@ -71,9 +71,7 @@ Requirement analysis
 Flowchart
 
 
-Source code
-
-hienlu2010vn/pythonLedController (github.com)
+[Source code](hienlu2010vn/pythonLedController)
 
 Implementation and inspection
 
